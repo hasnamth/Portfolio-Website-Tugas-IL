@@ -105,7 +105,7 @@ body {
 }
 .card {
 	margin: 0px;
-	height: 450px;
+	height: auto;
 	width: 100%;
 	border-radius: 15px;
 	background: white;
@@ -115,7 +115,7 @@ body {
 }
 .card:hover {
 	margin: 0px;
-	height: 450px;
+	height: auto;
 	width: 100%;
 	border-radius: 15px;
 	background: #460020;
@@ -124,7 +124,7 @@ body {
 }
 .card2{
 	margin: 0px;
-	height: 450px;
+	height: auto;
 	width: 100%;
 	border-radius: 15px;
 	background:white;
@@ -134,7 +134,7 @@ body {
 }
 .card2:hover{
 	margin: 0px;
-	height: 450px;
+	height: auto;
 	width: 100%;
 	border-radius: 15px;
 	background:#15003D;
